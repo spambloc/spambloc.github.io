@@ -4,7 +4,7 @@ SPAMBLOC is the dumpster of weird texts, literatures, recipes, gossips, guides, 
 
 ## Index
 
-* [Recipes](recipes/index.md)
-* [Guides](guides/index.md)
-* [Texts](texts/index.md)
-* [Hacks](hacks/index.md)
+* [Recipes](recipes.md)
+* [Guides](guides.md)
+* [Texts](texts.md)
+* [Hacks](hacks.md)
